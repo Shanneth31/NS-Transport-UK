@@ -661,6 +661,11 @@ h1, h2, h3{
   gap: 24px;
 }
 .footer-logo{ height: 40px; width: auto; }
+.footer-fsb-logo,
+.footer-fsb img {
+  height: 26px;
+  width: auto;
+}
 .footer-logos{
   display: flex;
   align-items: center;
